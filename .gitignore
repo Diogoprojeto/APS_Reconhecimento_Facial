@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.db
+*.sqlite
+*.sqlite3
+rostos/
+rostos_arquivo/
+codigo_inicial_ministro.txt
+.env
+*.db.*
+*backup*
